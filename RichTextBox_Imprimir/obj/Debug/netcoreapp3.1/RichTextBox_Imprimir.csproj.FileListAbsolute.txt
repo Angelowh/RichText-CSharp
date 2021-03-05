@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\C#\Neto\RichTextBox_Imprimir\RichTextBox_Imprimir\bin\Debug\netcoreapp3.1\RichTextBox_Imprimir.exe
+C:\Users\PICHAU\Documents\C#\Neto\RichTextBox_Imprimir\RichTextBox_Imprimir\bin\Debug\netcoreapp3.1\RichTextBox_Imprimir.deps.json
+C:\Users\PICHAU\Documents\C#\Neto\RichTextBox_Imprimir\RichTextBox_Imprimir\bin\Debug\netcoreapp3.1\RichTextBox_Imprimir.runtimeconfig.json
+C:\Users\PICHAU\Documents\C#\Neto\RichTextBox_Imprimir\RichTextBox_Imprimir\bin\Debug\netcoreapp3.1\RichTextBox_Imprimir.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\C#\Neto\RichTextBox_Imprimir\RichTextBox_Imprimir\bin\Debug\netcoreapp3.1\RichTextBox_Imprimir.dll
+C:\Users\PICHAU\Documents\C#\Neto\RichTextBox_Imprimir\RichTextBox_Imprimir\bin\Debug\netcoreapp3.1\RichTextBox_Imprimir.pdb
+C:\Users\PICHAU\Documents\C#\Neto\RichTextBox_Imprimir\RichTextBox_Imprimir\obj\Debug\netcoreapp3.1\RichTextBox_Imprimir.csprojAssemblyReference.cache
+C:\Users\PICHAU\Documents\C#\Neto\RichTextBox_Imprimir\RichTextBox_Imprimir\obj\Debug\netcoreapp3.1\RichTextBox_Imprimir.Form1.resources
+C:\Users\PICHAU\Documents\C#\Neto\RichTextBox_Imprimir\RichTextBox_Imprimir\obj\Debug\netcoreapp3.1\RichTextBox_Imprimir.csproj.GenerateResource.cache
+C:\Users\PICHAU\Documents\C#\Neto\RichTextBox_Imprimir\RichTextBox_Imprimir\obj\Debug\netcoreapp3.1\RichTextBox_Imprimir.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\C#\Neto\RichTextBox_Imprimir\RichTextBox_Imprimir\obj\Debug\netcoreapp3.1\RichTextBox_Imprimir.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\C#\Neto\RichTextBox_Imprimir\RichTextBox_Imprimir\obj\Debug\netcoreapp3.1\RichTextBox_Imprimir.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\C#\Neto\RichTextBox_Imprimir\RichTextBox_Imprimir\obj\Debug\netcoreapp3.1\RichTextBox_Imprimir.dll
+C:\Users\PICHAU\Documents\C#\Neto\RichTextBox_Imprimir\RichTextBox_Imprimir\obj\Debug\netcoreapp3.1\RichTextBox_Imprimir.pdb
+C:\Users\PICHAU\Documents\C#\Neto\RichTextBox_Imprimir\RichTextBox_Imprimir\obj\Debug\netcoreapp3.1\RichTextBox_Imprimir.genruntimeconfig.cache
+C:\Users\PICHAU\Documents\C#\Neto\RichTextBox_Imprimir\RichTextBox_Imprimir\obj\Debug\netcoreapp3.1\RichTextBox_Imprimir.Properties.Resources.resources
