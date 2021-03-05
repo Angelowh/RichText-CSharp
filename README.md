@@ -7,4 +7,5 @@ Tecnologias usadas
 
 
 🖥️Desktop
+
 ![Alt Text](https://github.com/{Angelowh}/{RichText-CSharp}/raw/{master}/RichTextBox_Imprimir/print_app.gif)
