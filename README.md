@@ -5,6 +5,8 @@ Projeto de editor de texto feita em C# baseado no curso de Macoratti.net
 
 <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
+## 💻🛠️ Link p/ baixar o instalador
+https://drive.google.com/drive/folders/1QgPpPUSHbvU6SNlfiQRYhPi1pWEczK_2?usp=sharing
 
 ## 🖥️Desktop
 
